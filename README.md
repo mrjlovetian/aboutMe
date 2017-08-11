@@ -27,34 +27,34 @@
 
 
 
-## 标题
-### 哈哈
-#### 哈哈哈
-##### 嘿嘿
-###### 哦哦
-####### 喵喵
-######## 啦啦
-######### 啦啦啦
+## 标题 
+### 哈哈 (###)
+#### 哈哈哈 (####)
+##### 嘿嘿 (#####)
+###### 哦哦 (######)
+####### 喵喵 (#######)
+######## ad(########)
 
 
-## 分类
-* red
+## 分类 
+* red (*)
 
 ## 测试
-- 消息
-+ message
+- 消息 (-)
++ message (+)
 
 
 
 
 ## OL
 <ol>
-<li>段落<li>
-</ol>
+<li>段落1</li>
+<li>段落2</li>
+</ol>  （<ol><li>段落1</li><li>段落2</li></ol>）
 
-<p>这样表示一个段落么？这是什么意思啊，搞不明白<p>
+<p>这样表示一个段落么？这是什么意思啊，搞不明白<p>（<p></p>）
 
-## 代码区块
+## 代码区块 (<pre><code></code></pre>)
 <pre><code> CGFloat normalRed, normalGreen, normalBlue, normalAlpha;
         CGFloat selectedRed, selectedGreen, selectedBlue, selectedAlpha;
         
@@ -77,7 +77,7 @@
 
  
 
-## 显示图片，添加个美女图片看看
+## 显示图片，添加个美女图片看看 (![Alt text](/girl.jpg))
 ![Alt text](/girl.jpg)
 
 
