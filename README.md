@@ -10,8 +10,12 @@
 专业：网络工程
 
 
-## Requirements
-ios8.0以上，相关资料请查阅源代码
+## 相关经历
+### 2014年7月就职北京亿高高尔夫iOS开发工程师
+### 先后在公司创建不同私有控件，减轻重复工作，增加不同项目的组件化管理方式
+### 在GitHub上也有自己对应的共有开源库，部分是自己用来做的demo，主要是控件式的分享！
+
+ 
 ## Installation
 
 TableBarViewController is available through [CocoaPods](http://cocoapods.org). To install
